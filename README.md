@@ -1,3 +1,5 @@
+# Youtube Link: https://www.youtube.com/watch?v=zB2k8EL_kuw
+
 # Comprehensive Report on RAG Pipeline Performance Metrics
 
 ## Introduction
